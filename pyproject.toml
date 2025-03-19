@@ -7,4 +7,3 @@ requires-python = ">=3.13"
 dependencies = [
     "streamlit>=1.43.2",
 ]
-Activate with: .venv\Scripts\activate
